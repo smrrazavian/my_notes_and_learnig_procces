@@ -1,4 +1,4 @@
-# my_notes_and_learnig_procces
+# Programming Knowledge and Experience Repository
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 

@@ -20,14 +20,11 @@ Welcome to the Programming Knowledge Repository! This repository is dedicated to
 
 ## Machine Learning
 
-- Introduction to Machine Learning
 - Supervised Learning
+
+  - [Decision Trees](machine-learning/supervised_learning/decision_trees.md)
+  
 - Unsupervised Learning
-- Regression Algorithms
-- Classification Algorithms
-- Clustering Techniques
-- Feature Engineering
-- Evaluation Metrics
 
 ## Deep Learning
 

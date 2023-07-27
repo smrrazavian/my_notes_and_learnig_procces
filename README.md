@@ -1,12 +1,17 @@
 # Programming Knowledge Repository
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)![GitHub contributors](https://img.shields.io/github/contributors/smrrazavian/my_notes_and_learnig_procces.svg)![GitHub last commit](https://img.shields.io/github/last-commit/smrrazavian/my_notes_and_learnig_procces.svg)
+
+## Before you start
+
+> If you're having trouble viewing the Jupyter Notebook directly on GitHub, you can easily access and explore the content by using the nbviewer service at <https://nbviewer.org/>. Simply copy and paste the URL of the notebook (e.g., <https://github.com/smrrazavian/my_notes_and_learnig_procces/blob/main/machine-learning/supervised_learning/decision_trees.ipynb>) into nbviewer, and it will render the notebook correctly for easy reading and interaction.
 
 Welcome to the Programming Knowledge Repository! This repository is dedicated to sharing valuable resources related to programming, with a special focus on Machine Learning and Deep Learning concepts. Here, we aim to build a collaborative space where programmers, developers, and learners can come together to access, contribute, and learn from a diverse collection of materials.
 
 ## List of Contents
 
 - [Programming Knowledge Repository](#programming-knowledge-repository)
+  - [Before you start](#before-you-start)
   - [List of Contents](#list-of-contents)
   - [Machine Learning](#machine-learning)
   - [Deep Learning](#deep-learning)

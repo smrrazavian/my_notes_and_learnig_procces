@@ -22,7 +22,7 @@ Welcome to the Programming Knowledge Repository! This repository is dedicated to
 
 - Supervised Learning
 
-  - [Decision Trees](machine-learning/supervised_learning/decision_trees.md)
+  - [Decision Trees](machine-learning/supervised_learning/decision_trees.ipynb)
   
 - Unsupervised Learning
 
